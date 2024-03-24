@@ -18,11 +18,11 @@ mv l2o $PATH/local2onion
 chmod +x $PATH/local2onion
 if [[ -d $PREFIX/var/lib/tor/hidden_service/ ]];then 
   printf "\n 
-now you can launch this script by typing \e[31?local2onion\e[0m from any directory
+now you can launch this script by typing \e[31mlocal2onion\e[0m from any directory
 "
 else
   echo tor hidden hidden_service directory not found creating...
   mkdir -p $PREFIX/var/lib/tor/hidden_service/ 
-  printf "\nnow you can launch this script by typing \e[31?local2onion\e[0m from any directory"
+  printf "\nnow you can launch this script by typing \e[31mlocal2onion\e[0m from any directory"
 fi 
 
