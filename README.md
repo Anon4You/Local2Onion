@@ -22,7 +22,7 @@
 ## installation
 
 ```
-curl -sSL https://github.com/Anon4You/Local2Onion/raw/main/install | bash
+curl -sSL https://github.com/Anon4You/Local2Onion/raw/main/install.sh | bash
 ```
 
 
