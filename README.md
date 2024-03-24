@@ -2,7 +2,7 @@
 Expose your localhost on the DARKWEB using termux
 
 ## Screenshot
-<img src="files/Screenshot_20240324-121027.png"/> 
+<img src="files/Picsart_24-03-24_13-38-15-589.jpg"/> 
 
 ## installation
 ```
