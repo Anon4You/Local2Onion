@@ -1,5 +1,0 @@
-#!/bin/bash
-curl -LO https://github.com/Anon4You/Local2Onion/raw/main/files/torrc
-mv torrc $PREFIX/etc/tor
-curl -LO https://github.com/Anon4You/Local2Onion/raw/main/files/l2o
-mv l2o $PATH/local2onion && chmod +x $PATH/local2onion 
