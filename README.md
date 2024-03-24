@@ -1,9 +1,11 @@
+# Local2Onion v1.0.0
+
 <p align="center">
   <img src="files/Picsart_24-03-24_13-38-15-589.jpg">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.1-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0.0-red?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Anon4You/Local2Onion?style=for-the-badge">
 </p>
 
@@ -23,8 +25,6 @@
 curl -sSL https://github.com/Anon4You/Local2Onion/raw/main/install | bash
 ```
 
-> just copy and paste this command in your termux
-* note if rawgithub not connected use a vpn or proxy
 
 
 
